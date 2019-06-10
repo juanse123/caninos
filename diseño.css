@@ -1,0 +1,112 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+#contenedor{
+	width: 1200px;
+	height: 1000px;
+	background:	#FFFFFF;
+	margin: 0.5em auto;
+	padding: 0.5em;
+}
+
+#header{
+	
+	padding-left: 10px; 
+	height: 15%;
+	background: #87CEFA;
+	border-radius: 1em;
+	margin: 1em;
+}
+
+#nav{
+	padding-left: 75px;
+	height: 14%;
+	background: #87CEFA;
+	border-radius: 1em;
+	margin: 1em;
+}
+
+#contenido{
+	height: 44%;
+	background: #C0C0C0;
+	border-radius: 1em;
+}
+#fotter{
+	height: 15%;
+	background: #87CEFA;
+	border-radius: 1em;
+	margin: 1em;
+}
+#section{
+	height: 425px;
+	width: 73%;
+	background:	#C0C0C0;
+	float: left;
+	margin-left: 0.5em;
+	border-radius: 1em;
+}
+
+#aside{
+	height: 99%;
+	width: 25.5%;
+	background: #FF7F50;
+	border-radius: 3em;
+	float: right;
+	margin-right: 0.5em;
+}
+.articulo{
+	padding-left: 10px; 
+	width: 95%;
+	height: 45%;
+	background: #FAFAD2;
+	margin: 1em;
+	border-radius: 1em;
+}
+.formulario{
+	width: 94%;
+	height: 20%;
+	background: #FF7F50;
+	margin: 1em;
+	border-radius: 1em;
+}
+.ref{
+	width:8%;
+	height: 7%;
+	background: #FAFAD2;
+	margin: 1em;
+	border-radius: 1em;
+}
+table{
+	border-spacing: 0;
+	border-collapse: collapse;
+	border: none;
+}
+td.celda_sin{
+	padding: 0;
+}
+input{
+	border-radius: 30px;
+	width: 200px;
+	height: 30px;
+	margin: 5px;
+}
+#tex1{
+
+	float: left;
+
+}
+#s{
+	width: 150px;
+	float: right;
+	border-radius: 10px;
+}
+#tex2{
+	float: left;
+}
+#j{
+	width: 150px;
+	float: right;
+	border-radius: 10px;
+}
